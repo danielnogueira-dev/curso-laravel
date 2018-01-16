@@ -1,5 +1,5 @@
 # Curso de Laravel
-## Faça um pull request e informe o que você deseja aprender
+## Faça um pull request e informe o que você deseja aprender no [Backlog.md](Backlog.md)
 
 # Instalação no Ubuntu 16.04
 ## Instalação do PHP
